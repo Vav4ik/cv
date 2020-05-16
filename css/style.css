@@ -1,0 +1,23 @@
+body {
+  background-color: #9cb7a0;
+}
+
+hr {
+  border-style: none;
+  border-bottom: 5px dotted #556357;
+  width: 10%;
+}
+
+h1 {
+  color: #556357;
+  font-variant: small-caps;
+}
+
+h2 {
+  color: #556357;
+  font-variant: small-caps;
+}
+
+p {
+  font-family: verdana;
+}
